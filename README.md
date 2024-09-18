@@ -18,8 +18,9 @@
 &nbsp;
 
 <h3 align="center">Languages and Tools</h3>
-<h3 align="center">Databases:</h3>
-<p align="center">
+
+<p align="left">
+  <h4 align="center">Databases:</h4>
   <a> 
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
