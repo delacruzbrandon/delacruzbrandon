@@ -5,11 +5,11 @@
 
 
 
-- 🔭 I’m currently working on **Solana Marketplace site**
+- 🔭 I’m currently working on **My Portfolio Projects**
 
 - 🌱 I’m currently learning **React and ReactNative** w/ **ThreeJS**
 
-- 🤝 I would love to have opportunities to grow my iOS Dev skills
+- 🤝 I would love to have opportunities that can grow my Dev skills
 
 - 📫 Feel free to mail me here [**dcbrh.ph@gmail.com**](mailto:dcbrh.ph@gmail.com)
 
