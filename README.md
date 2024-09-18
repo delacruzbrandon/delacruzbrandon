@@ -74,7 +74,3 @@
 </div>
 
 &nbsp;
-
-<div align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=toczekmj&show_icons=true&theme=dark&locale=en" alt="toczekmj" />
-</div>
