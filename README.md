@@ -55,7 +55,7 @@
 
 
 <div align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toczekmj&layout=compact&langs_count=10&theme=dark" alt="toczekmj" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=delacruzbrandon&layout=compact&langs_count=10&theme=dark" alt="toczekmj" />
 </div>
 
 
