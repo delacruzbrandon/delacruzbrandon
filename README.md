@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Brandon | Android Developer</h1>
-<h3 align="center">Self taught with 5 years of experience!</h3>
+<h3 align="center">Self taught with 4 years of experience!</h3>
 <h3 align="center">Currently located in Pasay, Philippines</h3>
 
 
