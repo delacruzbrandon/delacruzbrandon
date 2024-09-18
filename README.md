@@ -17,7 +17,18 @@
 
 &nbsp;
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools</h3>
+<h3 align="center">Databases:</h3>
+<p align="center">
+  <a> 
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+  </a> 
+  <a> 
+    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mysql" width="40" height="40"/> 
+  </a> 
+</p>
 <p align="center"> 
   <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> 
@@ -40,10 +51,7 @@
   </a> 
   <a href="https://dart.dev/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
+  
   <a> 
     <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="mysql" width="40" height="40"/> 
