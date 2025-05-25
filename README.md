@@ -25,7 +25,7 @@
     <td><h4>Frontend</h4></td>
     <td><h4>Backend</h4></td>
     <td><h4>Database</h4></td>
-    <td><h4>Others</h4></td>
+    <td><h4>DevOps</h4></td>
 
   </tr>
   <tr  align="center">
@@ -88,6 +88,9 @@
       </a>
       <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> 
+      <a>
+      <a href="https://fastlane.tools/" target="_blank" rel="noreferrer"> 
+        <img src="https://github.com/get-icon/geticon/blob/master/icons/fastlane.svg" alt="fastlane" width="40" height="40"/> 
       <a>
     </td>
   </tr>
