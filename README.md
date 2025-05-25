@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Brandon | Android Developer</h1>
-<h3 align="center">Self taught with 4 years of experience!</h3>
+<h3 align="center">Self taught with 5 years of experience!</h3>
 <h3 align="center">Currently located in Pasay, Philippines</h3>
 
 
@@ -13,7 +13,7 @@
 
 - 📫 Feel free to mail me here [**dcbrh.ph@gmail.com**](mailto:dcbrh.ph@gmail.com)
 
-- 📄 [Know about my experiences](https://drive.google.com/file/d/10NzqdVTLKkgOgdzMmKUoiMdR1bTKkJoO/view?usp=sharing)
+- 📄 [Know about my experiences](https://drive.google.com/file/d/1Z1WtBJgzq5pd0VBqZs5cuyM8FUUxZb8A/view?usp=sharing)
 
 &nbsp;
 
