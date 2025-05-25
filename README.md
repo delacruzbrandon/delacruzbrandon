@@ -57,7 +57,7 @@
         <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
       <a> 
       <a href="https://threejs.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://upload.vectorlogo.zone/logos/threejs/images/3453d6aa-b9c2-48b3-b2c1-97aa80b5525e.svg" alt="threejs" width="40" height="40"/> 
+        <img src="https://canada1.discourse-cdn.com/flex035/uploads/threejs/original/2X/b/be2f75f72751c11cbe1593c69a99a52900bf12cb.svg" alt="threejs" width="40" height="40"/> 
       <a> 
       <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss" width="40" height="40"/> 
