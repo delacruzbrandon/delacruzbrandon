@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **My Portfolio Projects**
 
-- 🌱 I’m currently learning **React and ReactNative** w/ **ThreeJS**
+- 🌱 I’m currently building **Hybrid App using TypeScript** w/ **ExpoGo**
 
 - 🤝 I would love to have opportunities that can grow my Dev skills
 
