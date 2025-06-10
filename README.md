@@ -41,6 +41,9 @@
       </a> 
       <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> 
         <img src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" alt="javascript" width="40" height="40"/> 
+      </a>
+      <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="40" height="40"/> 
       </a> 
       <a href="https://soliditylang.org/" target="_blank" rel="noreferrer"> 
         <img src="https://docs.soliditylang.org/en/latest/_images/solidity_logo.svg" alt="solidity" width="40" height="40"/> 
@@ -52,6 +55,9 @@
       </a> 
       <a href="https://react.dev/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/> 
+      </a> 
+      <a href="https://expo.dev/" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/expoio/expoio-icon.svg" alt="react" width="40" height="40"/> 
       </a> 
       <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
