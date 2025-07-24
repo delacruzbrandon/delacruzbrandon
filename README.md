@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **My Portfolio Projects**
 
-- 🌱 I’m currently building **Hybrid App using TypeScript** w/ **ExpoGo**
+- 🌱 I’m currently building **Hybrid Apps using KMP Multi-Platform** w/ **Compose**
 
 - 🤝 I would love to have opportunities that can grow my Dev skills
 
